@@ -10,7 +10,7 @@
 
 ### 专业技能
 
-1. 掌握 **vue** 、**vue-router**、**vuex** 及 **element-ui** 组件库；
+1. 熟练使用 **vue** 、**vue-router**、**vuex** 及 **element-ui** 组件库；
 
 2. 掌握 **ES6+** 常用特性、熟悉 **jQuery**、**Bootstrap**；
 
