@@ -1,4 +1,4 @@
-## 周其军
+## JackChou
 
 前端开发 | 3 年经验 | **184 2838 6610** | **realJackChou**（微信） | jackchou4job@163.com
 
