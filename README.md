@@ -1,6 +1,6 @@
 ## JackChou
 
-前端开发 | 3 年经验 | **184 2838 6610** | **realJackChou**（微信） | jackchou4job@163.com
+前端开发 | 3 年经验 | **184 ** | **realJackChou**（微信） | j
 
 **[个人博客](https://jackzhoumine.github.io/)** （`https://jackzhoumine.github.io`） **[stackoverflow](https://stackoverflow.com/users/6524962/jackzhoumine)**（`https://stackoverflow.com/users/6524962/jackzhoumine`）
 
