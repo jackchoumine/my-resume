@@ -2,7 +2,7 @@
 
 前端开发 | 3 年经验 | **184 ** | **realJackChou**（微信） | j
 
-**[个人博客](https://jackzhoumine.github.io/)** （`https://jackzhoumine.github.io`） **[stackoverflow](https://stackoverflow.com/users/6524962/jackzhoumine)**（`https://stackoverflow.com/users/6524962/jackzhoumine`）
+**[个人博客](https://jackchoumine.github.io/)** （`https://jackchoumine.github.io`） **[stackoverflow](https://stackoverflow.com/users/6524962/jackchoumine)**（`https://stackoverflow.com/users/6524962/jackchoumine`）
 
 成都理工大学（2013——2017） | 计算机科学与技术（本科）| 英语技能：CET-4
 
@@ -45,7 +45,7 @@
 
 项目简介：该项目提供给用户申请集群、扩容集群、展示集群状态等功能。
 
-- 使用 elementUI　组件库，二次封装表单等常用组件，提升了团队开发效率；
+- 使用 elementUI 　组件库，二次封装表单等常用组件，提升了团队开发效率；
 - 分析各个页面使用到图表的功能，封装 echarts 图表组件；
 - 使用 svg 图标替换了 font icon ，提高了代码可维护性，统一显示效果；
 - 参加代码评审，推进团队按照 Angular 规范提交 git 信息等。
